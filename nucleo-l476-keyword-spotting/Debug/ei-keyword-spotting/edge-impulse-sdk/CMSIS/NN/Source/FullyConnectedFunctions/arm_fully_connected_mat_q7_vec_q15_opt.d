@@ -1,0 +1,32 @@
+ei-keyword-spotting/edge-impulse-sdk/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_mat_q7_vec_q15_opt.o: \
+ ../ei-keyword-spotting/edge-impulse-sdk/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_mat_q7_vec_q15_opt.c \
+ D:/STM32/proj/nucleo-l476-keyword-spotting/ei-keyword-spotting/edge-impulse-sdk/CMSIS/DSP/Include/arm_math.h \
+ D:/STM32/proj/nucleo-l476-keyword-spotting/Drivers/CMSIS/Include/cmsis_compiler.h \
+ D:/STM32/proj/nucleo-l476-keyword-spotting/Drivers/CMSIS/Include/cmsis_gcc.h \
+ D:/STM32/proj/nucleo-l476-keyword-spotting/ei-keyword-spotting/edge-impulse-sdk/CMSIS/NN/Include/arm_nnfunctions.h \
+ d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\nn\include\arm_nn_tables.h \
+ d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\dsp\include\arm_math.h \
+ d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\nn\include\arm_nn_types.h \
+ d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\nn\include\arm_nnsupportfunctions.h \
+ d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\dsp\include\arm_common_tables.h \
+ d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\dsp\include\arm_math.h
+
+D:/STM32/proj/nucleo-l476-keyword-spotting/ei-keyword-spotting/edge-impulse-sdk/CMSIS/DSP/Include/arm_math.h:
+
+D:/STM32/proj/nucleo-l476-keyword-spotting/Drivers/CMSIS/Include/cmsis_compiler.h:
+
+D:/STM32/proj/nucleo-l476-keyword-spotting/Drivers/CMSIS/Include/cmsis_gcc.h:
+
+D:/STM32/proj/nucleo-l476-keyword-spotting/ei-keyword-spotting/edge-impulse-sdk/CMSIS/NN/Include/arm_nnfunctions.h:
+
+d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\nn\include\arm_nn_tables.h:
+
+d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\dsp\include\arm_math.h:
+
+d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\nn\include\arm_nn_types.h:
+
+d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\nn\include\arm_nnsupportfunctions.h:
+
+d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\dsp\include\arm_common_tables.h:
+
+d:\stm32\proj\nucleo-l476-keyword-spotting\ei-keyword-spotting\edge-impulse-sdk\cmsis\dsp\include\arm_math.h:

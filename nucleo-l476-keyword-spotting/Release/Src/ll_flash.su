@@ -1,0 +1,8 @@
+ll_flash.c:107:10:STMFLASH_Read32	0	static
+ll_flash.c:166:9:LL_Flash_Unlock	0	static
+ll_flash.c:6:9:LL_FLASH_PageErase	8	static
+ll_flash.c:51:9:LL_FLASH_Program64	8	static
+ll_flash.c:76:9:LL_FLASH_Program64s	40	static
+ll_flash.c:178:10:FLASH_If_Check	0	static
+ll_flash.c:184:9:LL_FLASH_OB_Unlock	0	static
+ll_flash.c:112:9:STMFLASH_BankSwitch	8	static

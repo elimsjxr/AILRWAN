@@ -1,0 +1,5 @@
+toggle.c:9:9:TOGGLE_RESET_EXTI_CALLBACK	16	static
+toggle.c:99:6:Reset_Handler	8	static,ignoring_inline_asm
+toggle.c:111:9:USR_FLASH_PageErase	0	static
+toggle.c:116:9:USR_FLASH_Program8	16	static
+toggle.c:139:9:USR_FLASH_Read8	0	static
